@@ -1,0 +1,2 @@
+# IBM-SPSS-Statistics-Project-Analyzing-and-Interpreting-Consumer-Behavior
+statistics project by IBM SPSS Statistics! In this project, we aim to gain valuable insights into consumer behavior through the analysis of a large dataset. By leveraging the robust capabilities of IBM SPSS Statistics, we conduct various statistical tests and visualization techniques to explore patterns, trends, and relationships within the data.
