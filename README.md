@@ -23,3 +23,4 @@ The insights gained from this project can be invaluable for businesses seeking t
 
 **Conclusion:**
 By harnessing the power of IBM SPSS Statistics, this project delves deep into the world of consumer behavior analysis. The statistical tests, visualization tools, and regression analysis help us extract meaningful patterns and trends from the dataset. Armed with this knowledge, businesses can make data-driven decisions and cultivate a competitive edge in today's dynamic marketplace.
+
